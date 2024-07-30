@@ -10,7 +10,7 @@
 
 
 
-- 🔭 I’m currently worked on **ITP project**
+- 🔭 I’m currently working on **Springboot project**
 
 - 🌱 I’m currently learning **MERN Stack**
 
