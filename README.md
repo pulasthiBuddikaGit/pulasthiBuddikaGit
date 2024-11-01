@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Pulasthi Buddika</h1>
 <h3 align="center">A passionate fullstack developer from Sri Lanka</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=pulasthiBuddikaGit&label=Profile%20views&color=0e75b6&style=flat" alt="pulasthibuddikagit" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=pulasthiBuddikaGit&label=Profile%20views&color=0e75b6&style=flat" alt="pulasthiBuddikaGit" /> </p>
 
 <picture><img align="right" style="float: right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 200px alt="computer man" height="200px"></picture>
 
