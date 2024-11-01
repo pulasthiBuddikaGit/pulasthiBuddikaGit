@@ -32,7 +32,7 @@
 
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=pulasthiBuddikaGit&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaleeshaAluwihare&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pulasthiBuddikaGit&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
   
   </td>
 </tr>
